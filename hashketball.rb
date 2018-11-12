@@ -118,7 +118,9 @@ def game_hash
 end
 
 def num_points_scored(name)
-  game_hash[:home].each ||
+  game_hash[:home].each do |value|
+    
+  
 end
 
 def num_points_scored(name)
