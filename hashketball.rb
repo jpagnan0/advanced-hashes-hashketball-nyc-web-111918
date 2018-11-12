@@ -119,7 +119,7 @@ end
 
 def num_points_scored(name)
   game_hash.each do |home, players|
-    
+    if()
     game_hash.each do |away, players|
   end
 end
