@@ -131,7 +131,7 @@ end
 def shoe_size(name)
   player = find_the_player(name)
   player.fetch(:shoe)
-end
+endex
 
 def team_colors(team_name)
   team = find_the_team(team_name)
