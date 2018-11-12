@@ -118,8 +118,7 @@ def game_hash
 end
 
 def num_points_scored(name)
-  game_hash[:home].each d
-  end
+  
 end
 =begin
 def num_points_scored(name)
