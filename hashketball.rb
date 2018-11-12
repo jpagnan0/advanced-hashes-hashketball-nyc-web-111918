@@ -119,7 +119,7 @@ end
 
 def num_points_scored(name)
   all_players = {}
-  game_hash.each_key do |:home, :away| 
+  game_hash.each_key do |players| 
     binding.pry
   end
 end
