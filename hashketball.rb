@@ -118,7 +118,9 @@ def game_hash
 end
 
 def num_points_scored(name)
-  
+  all_players = {}
+  game_hash.each_key do |:home, :away| 
+  end
 end
 =begin
 def num_points_scored(name)
